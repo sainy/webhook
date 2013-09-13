@@ -1,0 +1,12 @@
+{
+  "repository": {
+      "name": "Diaspora",
+      "url": "git@10.148.250.96:acadci/acad_buildbot.git",
+      "description": "",
+      "homepage": "http://10.148.250.96/acadci/acad_buildbot"
+  },
+  
+  "ref_listen":"refs/heads/master",
+  "proj_path":"/home/buildbot/acad_buildbot",
+  "cmd_exec":"git pull origin master; ls; pwd"
+}
